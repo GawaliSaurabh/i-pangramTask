@@ -1,0 +1,85 @@
+.container {
+  margin: 0.5rem 0.5rem 0px 0.5rem;
+}
+.header-cont {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.8rem 0.8rem 0px 0.8rem;
+  background-color: rgb(204, 187, 187);
+  border-radius: 10px;
+  height: 3rem;
+}
+
+.pre-btn {
+  outline: none;
+  border: none;
+  background: none;
+  font-size: 25px;
+  color: rgb(29, 29, 122);
+  cursor: pointer;
+}
+
+.date {
+  font-size: 22px;
+  color: rgb(29, 29, 122);
+}
+
+.arr {
+  font-size: 20px;
+  color: rgb(29, 29, 122);
+}
+
+/* Time zone */
+
+.time-zone-cont {
+  background-color: rgb(204, 187, 187);
+  border-radius: 10px;
+  height: auto;
+  padding: 0.6rem;
+  margin-top: 0.7rem;
+}
+.dropdwn {
+  width: 100%;
+  background: none;
+  outline: none;
+  font-size: 20px;
+}
+
+.days-Container {
+  background-color: rgb(204, 187, 187);
+  border-radius: 10px;
+  height: auto;
+  padding: 0.7rem;
+  margin: 0.7rem 0.5rem 0px 0.5rem;
+}
+.day-section {
+  background-color: rgb(168, 141, 141);
+  padding: 0.5rem;
+  height: 5rem;
+}
+.day-flex {
+  display: flex;
+  gap: 1rem;
+}
+.time-flex {
+  display: flex;
+  gap: 0.3rem;
+}
+.time-flex1 {
+  display: flex;
+  gap: 0.3rem;
+  margin-left: 0.5rem;
+}
+.checkbx {
+  width: 16px;
+  /* margin-top: -3rem; */
+}
+.time {
+  font-size: 16px;
+}
+.time-subContainr {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
